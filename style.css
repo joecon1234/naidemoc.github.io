@@ -14,9 +14,9 @@ h1{
 }
 
 
-#nav{
+.nav{
     float: left;
 }
-#navObject{
+.navObject{
     float: left;
 }
